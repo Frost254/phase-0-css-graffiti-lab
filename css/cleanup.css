@@ -5,31 +5,20 @@
     z-index: 10;
 }
 
-#wall .tag-2 {
+#wall #tag-2 {
     display: inline-block;
     z-index: 10;
     top: 10px;
     left: 15px;
 }
 
-#wall .tag-3 {
+#wall #tag-3 {
     display: none;
     top: 20px;
     left: 30px;
+    z-index: 11;
 }
 
-#wall .tag-4 {
-    display: none;
-}
-
-#wall .tag-5 {
-    display: none;
-}
-
-#wall .tag-6 {
-    display: none;
-}
-
-#wall .tag-7 {
+#wall .parent #tag-4 {
     display: none;
 }
